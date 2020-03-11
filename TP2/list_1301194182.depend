@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1580562846 source:d:\tugas praktikum strukdat\list_1301194182\list.cpp
+	<iostream>
+	"list.h"
+
+1580562846 d:\tugas praktikum strukdat\list_1301194182\list.h
+	<iostream>
+
+1580563444 source:d:\tugas praktikum strukdat\list_1301194182\main.cpp
+	<iostream>
+	"list.h"
+
+1580665194 source:d:\tugas praktikum std\list_1301194182\list.cpp
+	<iostream>
+	"list.h"
+
+1580664785 d:\tugas praktikum std\list_1301194182\list.h
+	<iostream>
+
+1580665258 source:d:\tugas praktikum std\list_1301194182\main.cpp
+	<iostream>
+	"list.h"
+
