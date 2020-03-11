@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1581267141 source:d:\tugas praktikum std\perpustakaan_1301194182\main.cpp
+	"perpustakaan.h"
+
+1581265770 d:\tugas praktikum std\perpustakaan_1301194182\perpustakaan.h
+	<iostream>
+
+1581267808 source:d:\tugas praktikum std\perpustakaan_1301194182\perpustakaan.cpp
+	"perpustakaan.h"
+
