@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1582456518 source:d:\tugas praktikum std\cdll_1301194182\main.cpp
+	"cdll.h"
+
+1582451946 d:\tugas praktikum std\cdll_1301194182\cdll.h
+	<iostream>
+
+1582456813 source:d:\tugas praktikum std\cdll_1301194182\cdll.cpp
+	"cdll.h"
+
