@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1580047146 source:d:\tugas praktikum strukdat\hello_1301194182\hello_1301194182.cpp
+	"hello_1301194182.h"
+
+1579978021 d:\tugas praktikum strukdat\hello_1301194182\hello_1301194182.h
+	<iostream>
+	<cstdlib>
+
+1580033419 source:d:\tugas praktikum strukdat\hello_1301194182\main.cpp
+	"hello_1301194182.h"
+
+1580047146 source:d:\tugas praktikum std\hello_1301194182\hello_1301194182.cpp
+	"hello_1301194182.h"
+
+1579978021 d:\tugas praktikum std\hello_1301194182\hello_1301194182.h
+	<iostream>
+	<cstdlib>
+
+1580033419 source:d:\tugas praktikum std\hello_1301194182\main.cpp
+	"hello_1301194182.h"
+
