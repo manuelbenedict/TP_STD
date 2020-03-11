@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1581844588 source:d:\tugas praktikum std\doublelinkedlist_1301194182\main.cpp
+	<iostream>
+	"doublelinkedlist.h"
+
+1581843850 source:d:\tugas praktikum std\doublelinkedlist_1301194182\doublelinkedlist.cpp
+	"doublelinkedlist.h"
+
+1581777234 d:\tugas praktikum std\doublelinkedlist_1301194182\doublelinkedlist.h
+	<iostream>
+
